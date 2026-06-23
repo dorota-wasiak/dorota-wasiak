@@ -18,7 +18,7 @@ Currently building expertise in **AI Governance** and responsible AI, with a foc
  
 - Portfolio: [dorota-wasiak.github.io](https://dorota-wasiak.github.io)
 - LinkedIn: [in/dorota-wasiak](https://www.linkedin.com/in/dorota-wasiak/)
-- wasiak.dorota@gmail.com
+- Mail: wasiak.dorota@gmail.com
 ---
  
 ⭐️ Open to new opportunities in Business Analysis, Product Ownership, and AI Governance
