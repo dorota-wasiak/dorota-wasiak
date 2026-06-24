@@ -8,7 +8,7 @@ Currently building expertise in **AI Governance** and responsible AI, with a foc
  
 ### What I'm working on
  
-- **AISIA** — an interactive AI System Impact Assessment tool aligned with ISO/IEC 42001:2023 and the EU AI Act → [dorota-wasiak.github.io/aisia-tool](https://dorota-wasiak.github.io/aisia-tool/)
+- **AISIA** - an interactive AI System Impact Assessment tool aligned with ISO/IEC 42001:2023 and the EU AI Act → [dorota-wasiak.github.io/aisia-tool](https://dorota-wasiak.github.io/aisia-tool/)
 - Building out a full governance documentation suite for AISIA: Business Case, Business Requirements, and Functional Requirements
 ### Tools & Technologies
  
